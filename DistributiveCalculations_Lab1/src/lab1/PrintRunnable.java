@@ -1,3 +1,5 @@
+package lab1;
+
 import java.io.PrintStream;
 
 class PrintNumberRunnable implements Runnable {
